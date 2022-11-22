@@ -1,1 +1,1 @@
-My first readme
+##Hi am a Software Developer 😌
